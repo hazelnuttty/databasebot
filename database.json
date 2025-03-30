@@ -1,0 +1,17 @@
+{
+  "apa kabar?": ["Saya baik-baik saja, terima kasih!", "Saya baik, bagaimana dengan Anda?", "Kabar baik!"],
+  "siapa kamu?": ["Saya adalah chatbot yang siap membantu Anda.", "Saya adalah asisten virtual Anda!", "Nama saya ChatBot, saya siap membantu."],
+  "berapakah 2 + 2?": ["2 + 2 = 4", "Jawaban dari 2 + 2 adalah 4.", "Hasil dari 2 + 2 adalah 4."],
+  "apa yang bisa kamu lakukan?": ["Saya bisa membantu menjawab pertanyaan, memberikan informasi, dan banyak lagi!", "Saya bisa membantu Anda dengan banyak hal, seperti menjawab pertanyaan dan memberikan saran."],
+  "terima kasih": ["Sama-sama!", "Senang bisa membantu!", "Tidak masalah, senang bisa membantu!"],
+  "siapa presiden Indonesia?": ["Presiden Indonesia saat ini adalah Joko Widodo.", "Presiden Republik Indonesia adalah Joko Widodo."],
+  "apa ibu kota Indonesia?": ["Ibu kota Indonesia adalah Jakarta.", "Jakarta adalah ibu kota Indonesia."],
+  "apa itu Python?": ["Python adalah bahasa pemrograman yang populer, mudah dipelajari, dan digunakan untuk berbagai tujuan.", "Python adalah bahasa pemrograman yang digunakan untuk pengembangan web, data science, automasi, dan banyak lagi."],
+  "siapa penemu listrik?": ["Penemu listrik adalah Thomas Edison, meskipun ada juga peneliti lain seperti Nikola Tesla.", "Thomas Edison dikenal sebagai penemu listrik komersial."],
+  "apa itu AI?": ["AI (Artificial Intelligence) adalah kecerdasan buatan yang memungkinkan mesin untuk belajar dan berpikir seperti manusia.", "AI adalah teknologi yang memungkinkan mesin untuk menyelesaikan tugas yang biasanya membutuhkan kecerdasan manusia."],
+  "apa makanan favoritmu?": ["Saya tidak bisa makan, tetapi saya suka mendengar tentang berbagai makanan dari pengguna.", "Sebagai chatbot, saya tidak bisa makan, tapi saya suka berbicara tentang makanan!"],
+  "apa yang terjadi jika saya keluar?": ["Jika Anda keluar, saya akan mengucapkan terima kasih dan menunggu Anda kembali!", "Tidak masalah jika Anda keluar, saya akan menunggu jika Anda ingin kembali!"],
+  "siapa pencipta komputer?": ["Charles Babbage dianggap sebagai 'Bapak Komputer' karena merancang mesin penghitung analitik.", "Charles Babbage adalah orang yang merancang komputer pertama yang dikenal sebagai mesin penghitung analitik."],
+  "berapa umur bumi?": ["Bumi diperkirakan berusia sekitar 4,5 miliar tahun.", "Bumi berusia sekitar 4,5 miliar tahun."],
+  "apa itu internet?": ["Internet adalah jaringan global yang menghubungkan jutaan komputer di seluruh dunia untuk berbagi informasi.", "Internet adalah sistem komunikasi global yang memungkinkan perangkat saling terhubung dan berbagi data."]
+}
